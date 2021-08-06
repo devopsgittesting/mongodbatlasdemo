@@ -22,7 +22,6 @@ This Project is **[Live](https://reg-login-using-nodejs-mongodb.herokuapp.com/)*
 ### •Registration Form:
 Allows the user to register their account by filling their Email, Username, Password.
 
-<img src="./docs/registration.PNG" height="250" width="390" style="border: 1px solid black;">
 
 ### •Login Form:
 If the user has been registered on the app, can login by passing the credentials.
@@ -76,9 +75,3 @@ node server.js
 The server will start Running on
 + http://localhost:3000/
 
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used.
-* Special mention to all the Nodejs dev's on youtube 😜
